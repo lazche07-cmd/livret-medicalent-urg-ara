@@ -5,7 +5,7 @@ import vm from 'node:vm';
 import assert from 'node:assert/strict';
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..'),dist=resolve(root,'dist');
 const html=readFileSync(resolve(dist,'index.html'),'utf8');
-assert(html.includes('<title>Livret médicament Urg ara</title>'));
+assert(html.includes('<title>Livret médicament Urg ara — Urgentistes et Médecins correspondants SAMU (MCS)</title>'));
 assert(/id="source-open"[^>]*target="_blank"/.test(html));
 for(const [,raw] of html.matchAll(/(?:src|href)="([^"#]+)"/g)){
  if(/^(?:https?:|mailto:|data:)/.test(raw))continue;

@@ -1,5 +1,7 @@
 # Livret médicament Urg ara
 
+Urgentistes et Médecins correspondants SAMU (MCS).
+
 Application statique interactive issue du livret MCS Urg’Ara V2.0 de juillet 2026 fourni par l’utilisateur : 31 médicaments, 73 checklists (42 adultes et 31 pédiatriques), huit repères généraux et 106 pages sources. Les deux PDF adulte et pédiatrique de l’application sont des **extraits du livret MCS**, avec les pages générales communes. Ils ne sont pas les livrets généraux Urg’Ara.
 
 ## Déployer sur Vercel
