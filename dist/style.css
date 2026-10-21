@@ -7,3 +7,26 @@
 .brand{font-size:18px;letter-spacing:0}.brand>span{max-width:300px}.pdf-links{display:flex;gap:10px;flex-wrap:wrap;justify-content:flex-end;font-size:12px}.pdf-links a,.pdf-open{display:inline-block;border:1px solid #abd1c5;background:#eff7f4;padding:10px 12px;border-radius:8px;line-height:1.5}.pdf-open{font-weight:700}.pdf-open:hover,.pdf-links a:hover{background:#dceee7}#source-toggle{background:white;border-color:#d4e0e0}@media(max-width:650px){header{flex-wrap:wrap}.pdf-links{width:100%;justify-content:flex-start;font-size:11px;gap:6px}.pdf-links a{flex:1;text-align:center;padding:8px}.brand{font-size:17px}.brand>span{max-width:none}}
 
 .brand .small{line-height:1.5;letter-spacing:.3px}
+
+/* Blue gradient presentation with green interactive controls. */
+:root{color:#18354d;background:#edf4fa;--green:#14754b;--green-dark:#0d603d;--blue:#123b69}
+body{background:radial-gradient(ellipse at 12% 15%,#d7eaf9 0,transparent 48%),linear-gradient(135deg,#eff6fd 0%,#e7f0fa 50%,#f3f8fc 100%);min-height:100vh}
+header{background:linear-gradient(115deg,#102e54 0%,#19548b 60%,#2677a2 100%);border-bottom:1px solid #ffffff26;padding-top:26px;padding-bottom:26px;box-shadow:0 8px 28px #143d651c}
+.brand{color:#fff;font-weight:650}.brand b{background:linear-gradient(145deg,#27a36b,#13784d);box-shadow:0 5px 18px #071f3f40;border:1px solid #ffffff40;border-radius:16px}.brand .small{color:#e1edf8;font-weight:400}.version{color:#e0ecf7}
+a{color:#11653f}.pdf-links a,.pdf-open{background:linear-gradient(135deg,#168454,#116a44);color:#fff;border:1px solid #198455;box-shadow:0 3px 9px #0d58321a}.pdf-links a:hover,.pdf-open:hover{background:#0d603d;color:#fff}
+.notice{border-bottom:1px solid #ebd6ae;background:#fff5e1}
+.workspace-nav{background:#f8fbffeb;border-bottom:1px solid #cbddeb;padding-top:18px;padding-bottom:18px;gap:10px}
+button{background:#eff9f3;color:#145e3e;border-color:#b6d9c5;border-radius:11px;font-weight:600;transition:background .18s,border-color .18s,box-shadow .18s,transform .18s}
+button:hover:not(:disabled){background:#dff1e6;border-color:#468f69;box-shadow:0 3px 10px #145b3812}
+button:active:not(:disabled){transform:translateY(1px)}
+.active{background:linear-gradient(135deg,#168454,#0e6842)!important;border-color:#116c45!important;box-shadow:0 3px 10px #0e694326;color:#fff!important}
+main{gap:8px}aside{padding-top:36px}h1{font-size:36px;color:#143d68;letter-spacing:-1.3px;line-height:1.2}h2{color:#163f66}.eyebrow{color:#11653f}.muted{color:#506c80}
+input{border-color:#b6ccdf;border-radius:12px;box-shadow:0 3px 12px #123b6907}input:hover{border-color:#789fbc}
+#list{gap:10px}.card{background:#ffffffed;color:#21445d;border:1px solid #cbdde9;border-radius:13px;box-shadow:0 3px 10px #173f6410}.card strong{font-size:13px}.card span{color:#587185}.card.selected{border:1px solid #8bbca2;border-left:4px solid #14754b;background:linear-gradient(110deg,#e5f5eb,#f5fbf7);box-shadow:0 4px 14px #176c4514}
+#detail,.workspace-panel{border-color:#c9dce9;border-radius:22px;box-shadow:0 12px 36px #143d6510;background:#fff}.sheet-head{background:linear-gradient(125deg,#edf5fd,#f8fbff);padding-top:30px}.source-line{padding-top:12px}.tabs{gap:8px;padding-bottom:22px}.tabs button{padding:11px 13px}
+.summary{background:linear-gradient(110deg,#e5f4eb,#f0f9f4);border:1px solid #cee5d7;color:#245b40;border-radius:12px}
+.rubric{border-color:#d0dfea;border-radius:15px}.rubric-heading{background:linear-gradient(110deg,#eaf3fc,#f4f8fd);padding:18px}.rubric-heading h3{color:#214b70}.check-row{border-color:#d9e5ed;border-radius:12px}.check-row:hover{border-color:#8db5ce;background:#f7fbff}.check-row.checked{background:#eaf7ef;border-color:#72ae91}.check-row.effect.checked{background:#fff0ee;border-color:#c96d61}.check-row input,.checkpoint input,.dose-table input{accent-color:#14754b}.check-row .action-label{color:#526e7e}
+#source-toggle{background:#eff9f3;border-color:#b6d9c5}#reset{color:#8d4431;background:#fff7f2;border-color:#e5cbbb}#reset:hover{background:#ffede1}#star{background:#fff9e9;border-color:#ead8a6}
+.medicine-group{background:linear-gradient(145deg,#eff6fd,#f9fcff);border-color:#cbdde9;border-radius:15px}.medicine-group h3{color:#214b70}.medicine-group button{padding:13px}.doc-controls select{border-color:#b6ccdf}.doc-notice{background:#edf5fc}.bottom{background:#f6faff;border-top:1px solid #e0eaf2;padding:20px}footer{background:#e9f1f9;color:#4c687e;border-color:#cbddeb}
+@media(max-width:650px){header{padding:20px 16px}.brand{font-size:18px}.brand b{padding:8px 13px}.workspace-nav{padding:14px 12px;gap:8px}.workspace-nav button{padding:12px 10px}aside{padding:28px 16px}h1{font-size:32px;margin:14px 0}.filters button,#favorites{padding:12px}#detail,.workspace-panel{border-radius:18px}.sheet-head{padding:22px 16px 8px}.tabs{gap:7px}.tabs button{padding:11px 8px}.rubric-heading{padding:15px}.pdf-links a{padding:10px 6px}}
+@media(prefers-reduced-motion:reduce){button{transition:none}button:active:not(:disabled){transform:none}}
