@@ -1,0 +1,27 @@
+LIVRET MÉDICAMENT URG ARA — APPLICATION COMPLÈTE
+
+Source : livret du médicament du MCS Urg’Ara V2.0, juillet 2026, 106 pages.
+Périmètre : 31 médicaments ; 73 checklists (42 adultes, 31 pédiatriques) couvrant les 82 pages de médicaments et leurs suites ; 41 tableaux ; 8 repères généraux (pages 13 à 20) ; toutes les 106 pages originales accessibles.
+
+Navigation :
+- Checklists médicaments : tous / adulte / pédiatrie et recherche dans le texte.
+- Tous les médicaments : catalogue des 31 médicaments et de toutes leurs variantes.
+- Repères généraux : règles 5B/10B, glossaire/pictogrammes, étiquetage, lecture d’une fiche, abréviations, PSE MICREL, voie intranasale, Glasgow/Ramsay.
+- Tout le PDF : lecteur de chacune des 106 pages avec accès à la checklist associée lorsqu’elle existe. Les pages administratives et blanches restent des annexes.
+
+Fonctionnement des coches :
+Indication confirmée manuellement ; contre-indications recherchées/vérifiées ; présentation, préparation et schéma posologique contrôlés ; surveillance effectuée. Les alternatives de rythme s’excluent. Les critères Glasgow et Ramsay permettent une seule réponse par domaine, sans interprétation ou calcul de dose automatique. Les effets indésirables et signaux d’alarme ne sont cochés que s’ils sont observés et sont comptés séparément des étapes effectuées. Une contre-indication cochée ne signifie pas qu’elle est absente.
+
+Les tableaux gardent les valeurs du livret, sans calcul automatique. Les grilles horizontales simples sont transposées pour permettre de vérifier une ligne complète. Les préparations et conditions sont aussi visibles dans les onglets posologie/tableaux. Les pages sources permettent de comparer les données.
+
+Le titre adulte du sérum salé hypertonique est 7,5 % (page 62) ; le titre pédiatrique est 3 % (page 104), dont la préparation est décrite à 2,6 % dans le livret. Des mentions du document nécessitant une vérification sont signalées sur les fiches concernées, sans remplacement automatique d’une dose, d’une unité ou d’une voie.
+
+Coches conservées uniquement dans l’onglet ouvert. Nouvelle checklist réinitialise uniquement la fiche en cours. Favoris conservés localement dans le navigateur si disponible. Aucune donnée patient enregistrée. Pour la version locale, extraire le ZIP entier puis ouvrir index.html.
+
+Contrôles effectués : couverture de toutes les pages, inventaire des médicaments, contrôles d’omission des mots/nombres du corps des pages de médicaments, relecture de transcription et des rubriques, contrôles des identifiants et tableaux, simulation des interactions des 81 fiches/repères, annexes, catalogue et lecteur des 106 pages. Le contrôle des mots ne prouve pas à lui seul l’alignement correct des colonnes. Interface non vérifiée dans un navigateur dans cet environnement.
+
+VALIDATION : contrôle technique et relecture de transcription, sans validation clinique de l’adaptation. Faire valider médicalement avant usage opérationnel. Les coches ne valident ni diagnostic, ni prescription, ni sécurité d’administration. Le livret précise que ses listes de contre-indications et d’effets secondaires ne sont pas exhaustives (p. 16). La version numérique officielle Urg’Ara à jour prévaut ; aucune mise à jour automatique.
+
+Droits : © Urg’Ara. Usage personnel conformément à la page 3 du livret. Adaptation indépendante, sans affiliation officielle à Urg’Ara, au SMUR de Marseille ou au Bataillon de marins-pompiers de Marseille.
+
+Accès PDF : le bouton principal ouvre directement le PDF de la population concernée dans un nouvel onglet. Le bouton Aperçu des pages est distinct. PDF adulte : pages originales 1–64 (64 pages). PDF pédiatrique : pages originales 1–20 et 65–104 (60 pages). Ces deux fichiers sont des extraits du seul PDF fourni, avec les pages générales communes. Texte, instructions graphiques, images et destinations internes ont été contrôlés. Le PDF complet reste disponible.

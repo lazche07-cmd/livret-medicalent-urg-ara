@@ -1,0 +1,1325 @@
+[
+  {
+    "page": 22,
+    "pages": [
+      22
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 5,
+      "effects": 4,
+      "notes": 1,
+      "presentation": 3
+    },
+    "tables": 0
+  },
+  {
+    "page": 23,
+    "pages": [
+      23
+    ],
+    "counts": {
+      "indication": 3,
+      "contra": 1,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 4,
+      "surveillance": 3,
+      "effects": 6,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 24,
+    "pages": [
+      24
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 5,
+      "preparation": 3,
+      "combined": 0,
+      "dose": 12,
+      "surveillance": 7,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 25,
+    "pages": [
+      25
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 2,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 7,
+      "effects": 1,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 0
+  },
+  {
+    "page": 26,
+    "pages": [
+      26
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 0,
+      "combined": 4,
+      "dose": 10,
+      "surveillance": 2,
+      "effects": 3,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 27,
+    "pages": [
+      27
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 0,
+      "combined": 3,
+      "dose": 2,
+      "surveillance": 3,
+      "effects": 3,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 0
+  },
+  {
+    "page": 28,
+    "pages": [
+      28
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 0,
+      "combined": 6,
+      "dose": 0,
+      "surveillance": 6,
+      "effects": 1,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 0
+  },
+  {
+    "page": 29,
+    "pages": [
+      29
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 2,
+      "preparation": 8,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 3,
+      "effects": 6,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 30,
+    "pages": [
+      30
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 2,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 2,
+      "effects": 5,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 31,
+    "pages": [
+      31
+    ],
+    "counts": {
+      "indication": 7,
+      "contra": 1,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 1,
+      "effects": 7,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 32,
+    "pages": [
+      32
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 6,
+      "surveillance": 4,
+      "effects": 10,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 33,
+    "pages": [
+      33
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 7,
+      "effects": 11,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 34,
+    "pages": [
+      34
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 2,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 3,
+      "effects": 10,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 35,
+    "pages": [
+      35
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 1,
+      "preparation": 1,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 4,
+      "effects": 2,
+      "notes": 1,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 36,
+    "pages": [
+      36
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 0,
+      "combined": 2,
+      "dose": 9,
+      "surveillance": 3,
+      "effects": 6,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 37,
+    "pages": [
+      37
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 5,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 2,
+      "effects": 6,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 38,
+    "pages": [
+      38
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 2,
+      "preparation": 3,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 2,
+      "effects": 3,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 39,
+    "pages": [
+      39
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 3,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 2,
+      "effects": 2,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 40,
+    "pages": [
+      40
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 5,
+      "preparation": 3,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 4,
+      "effects": 7,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 41,
+    "pages": [
+      41
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 1,
+      "preparation": 7,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 2,
+      "effects": 8,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 42,
+    "pages": [
+      42
+    ],
+    "counts": {
+      "indication": 3,
+      "contra": 2,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 4,
+      "surveillance": 3,
+      "effects": 7,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 0
+  },
+  {
+    "page": 43,
+    "pages": [
+      43
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 0,
+      "combined": 11,
+      "dose": 0,
+      "surveillance": 3,
+      "effects": 11,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 44,
+    "pages": [
+      44
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 3,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 45,
+    "pages": [
+      45
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 2,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 3,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 46,
+    "pages": [
+      46
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 7,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 9,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 47,
+    "pages": [
+      47
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 3,
+      "effects": 14,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 48,
+    "pages": [
+      48
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 7,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 3,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 49,
+    "pages": [
+      49
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 7,
+      "preparation": 2,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 2,
+      "effects": 5,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 50,
+    "pages": [
+      50
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 2,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 4,
+      "effects": 10,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 51,
+    "pages": [
+      51
+    ],
+    "counts": {
+      "indication": 4,
+      "contra": 3,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 1,
+      "effects": 6,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 52,
+    "pages": [
+      52
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 4,
+      "effects": 22,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 53,
+    "pages": [
+      53
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 4,
+      "effects": 22,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 54,
+    "pages": [
+      54
+    ],
+    "counts": {
+      "indication": 4,
+      "contra": 4,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 4,
+      "effects": 22,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 55,
+    "pages": [
+      55
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 4,
+      "surveillance": 6,
+      "effects": 9,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 56,
+    "pages": [
+      56
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 8,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 6,
+      "effects": 9,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 57,
+    "pages": [
+      57
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 5,
+      "combined": 1,
+      "dose": 1,
+      "surveillance": 4,
+      "effects": 6,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 58,
+    "pages": [
+      58
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 5,
+      "effects": 5,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 59,
+    "pages": [
+      59
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 10,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 5,
+      "effects": 12,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 60,
+    "pages": [
+      60
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 1,
+      "preparation": 3,
+      "combined": 8,
+      "dose": 3,
+      "surveillance": 5,
+      "effects": 3,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 61,
+    "pages": [
+      61
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 3,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 4,
+      "effects": 8,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 62,
+    "pages": [
+      62
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 3,
+      "preparation": 12,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 3,
+      "effects": 10,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 63,
+    "pages": [
+      63,
+      64
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 17,
+      "preparation": 1,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 4,
+      "effects": 4,
+      "notes": 0,
+      "presentation": 7
+    },
+    "tables": 2
+  },
+  {
+    "page": 66,
+    "pages": [
+      66
+    ],
+    "counts": {
+      "indication": 3,
+      "contra": 1,
+      "preparation": 12,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 2,
+      "effects": 3,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 67,
+    "pages": [
+      67,
+      68
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 5,
+      "preparation": 8,
+      "combined": 0,
+      "dose": 5,
+      "surveillance": 6,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 69,
+    "pages": [
+      69
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 5,
+      "effects": 1,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 70,
+    "pages": [
+      70,
+      71
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 19,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 2,
+      "effects": 0,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 72,
+    "pages": [
+      72
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 3,
+      "combined": 0,
+      "dose": 10,
+      "surveillance": 2,
+      "effects": 3,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 2
+  },
+  {
+    "page": 73,
+    "pages": [
+      73
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 1,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 2,
+      "effects": 3,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 74,
+    "pages": [
+      74
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 6,
+      "effects": 1,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 75,
+    "pages": [
+      75,
+      76
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 3,
+      "preparation": 9,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 2,
+      "effects": 6,
+      "notes": 2,
+      "presentation": 3
+    },
+    "tables": 1
+  },
+  {
+    "page": 77,
+    "pages": [
+      77,
+      78
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 2,
+      "preparation": 7,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 2,
+      "effects": 7,
+      "notes": 1,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 79,
+    "pages": [
+      79,
+      80
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 8,
+      "combined": 0,
+      "dose": 6,
+      "surveillance": 3,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 81,
+    "pages": [
+      81
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 9,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 4,
+      "effects": 6,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 82,
+    "pages": [
+      82
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 4,
+      "surveillance": 3,
+      "effects": 6,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 83,
+    "pages": [
+      83
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 2,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 2,
+      "effects": 4,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 84,
+    "pages": [
+      84
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 2,
+      "combined": 0,
+      "dose": 6,
+      "surveillance": 2,
+      "effects": 2,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 85,
+    "pages": [
+      85
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 4,
+      "surveillance": 2,
+      "effects": 8,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 86,
+    "pages": [
+      86
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 0,
+      "combined": 9,
+      "dose": 1,
+      "surveillance": 3,
+      "effects": 14,
+      "notes": 1,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 87,
+    "pages": [
+      87
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 4,
+      "surveillance": 4,
+      "effects": 14,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 88,
+    "pages": [
+      88,
+      89
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 20,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 7,
+      "effects": 14,
+      "notes": 4,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 90,
+    "pages": [
+      90
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 8,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 2,
+      "effects": 5,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 91,
+    "pages": [
+      91
+    ],
+    "counts": {
+      "indication": 3,
+      "contra": 3,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 1,
+      "effects": 6,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 92,
+    "pages": [
+      92
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 4,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 4,
+      "effects": 22,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 93,
+    "pages": [
+      93
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 4,
+      "effects": 22,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 94,
+    "pages": [
+      94
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 4,
+      "effects": 18,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 95,
+    "pages": [
+      95
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 4,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 3,
+      "effects": 22,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 96,
+    "pages": [
+      96,
+      97
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 2,
+      "preparation": 6,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 6,
+      "effects": 9,
+      "notes": 7,
+      "presentation": 2
+    },
+    "tables": 2
+  },
+  {
+    "page": 98,
+    "pages": [
+      98
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 2,
+      "preparation": 0,
+      "combined": 2,
+      "dose": 0,
+      "surveillance": 4,
+      "effects": 1,
+      "notes": 1,
+      "presentation": 3
+    },
+    "tables": 2
+  },
+  {
+    "page": 99,
+    "pages": [
+      99
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 5,
+      "combined": 0,
+      "dose": 1,
+      "surveillance": 3,
+      "effects": 6,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 1
+  },
+  {
+    "page": 100,
+    "pages": [
+      100
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 12,
+      "combined": 0,
+      "dose": 3,
+      "surveillance": 5,
+      "effects": 5,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 101,
+    "pages": [
+      101,
+      102
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 1,
+      "preparation": 22,
+      "combined": 0,
+      "dose": 2,
+      "surveillance": 6,
+      "effects": 12,
+      "notes": 8,
+      "presentation": 2
+    },
+    "tables": 1
+  },
+  {
+    "page": 103,
+    "pages": [
+      103
+    ],
+    "counts": {
+      "indication": 1,
+      "contra": 3,
+      "preparation": 4,
+      "combined": 0,
+      "dose": 6,
+      "surveillance": 4,
+      "effects": 8,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  },
+  {
+    "page": 104,
+    "pages": [
+      104
+    ],
+    "counts": {
+      "indication": 2,
+      "contra": 3,
+      "preparation": 9,
+      "combined": 0,
+      "dose": 5,
+      "surveillance": 4,
+      "effects": 10,
+      "notes": 0,
+      "presentation": 1
+    },
+    "tables": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "technical_checks": "passed",
+  "clinical_validation": false,
+  "source_pages": 106,
+  "medicine_pages": 82,
+  "medicines": 31,
+  "medicine_checklists": 73,
+  "adult_checklists": 42,
+  "pediatric_checklists": 31,
+  "general_guides": 8,
+  "reference_pages": 16,
+  "tables": 41,
+  "items": {
+    "indication": 117,
+    "contra": 222,
+    "preparation": 421,
+    "combined": 46,
+    "dose": 215,
+    "surveillance": 291,
+    "effects": 633,
+    "notes": 49,
+    "presentation": 241
+  },
+  "source_body_word_omissions": [],
+  "limitations": [
+    "Contrôles techniques et relecture de transcription ; aucune validation clinique.",
+    "Les contrôles de couverture des mots ne prouvent pas à eux seuls la bonne association des colonnes.",
+    "Les symboles de la notice PSE ont été relus sur la page rendue ; la notice originale reste accessible.",
+    "Interface non vérifiée dans un navigateur dans cet environnement."
+  ]
+}

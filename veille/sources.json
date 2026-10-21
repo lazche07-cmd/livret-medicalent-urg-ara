@@ -1,0 +1,75 @@
+{
+  "application_source": {
+    "series": "MCS",
+    "version": "2.0",
+    "date": "2026-07",
+    "page_count": 106,
+    "origin": "PDF fourni par l’utilisateur",
+    "files": {
+      "livret-adulte.pdf": "9bc9b184ba45b94ea9e0a4a0787efd1ecf6b626c7d48aebe63093d1d17e9a695",
+      "livret-pediatrique.pdf": "724a65c99a494c1ee2df50f8eb672ba30633aa92392ebf46d1ec64918a67794f",
+      "livret-source.pdf": "3da1c3b35b80806cb3bf00d5650f30f59b4a1b9b73895167ee2c74cae85571c1"
+    },
+    "official_url": "https://www.urgences-ara.fr/app/uploads/2025/07/202607_MCS_Livret_du_medicament_UrgAra_V2.0.pdf"
+  },
+  "official_sources": [
+    {
+      "id": "pharmacie",
+      "kind": "index",
+      "url": "https://www.urgences-ara.fr/referentiel/pharmacie/",
+      "known_pdf_links": [
+        "https://www.urgences-ara.fr/app/uploads/2025/02/6074-20201126-sse-toxidrome-antidote-v1.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2025/07/202605_CP_livret_du_medicament_adulte_UrgAra_V1.3.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2026/06/202605_Suivi_mise_a_jour_livret_medicament_adulte_V1.3.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2026/06/202606_CP_Livret_du_medicament_PEDIATRIQUE_INTERMEDIAIRE_UrgAra_V2.0.pdf"
+      ]
+    },
+    {
+      "id": "adulte-general",
+      "kind": "pdf",
+      "series": "adulte général",
+      "version": "1.3",
+      "cover_date": "2026-05",
+      "page_count": 172,
+      "url": "https://www.urgences-ara.fr/app/uploads/2025/07/202605_CP_livret_du_medicament_adulte_UrgAra_V1.3.pdf",
+      "sha256": "3455ffe410b47e332689196b3b74ca83f9682d0d5e8743fcf2a59f500c9ab851"
+    },
+    {
+      "id": "adulte-annexe",
+      "kind": "pdf",
+      "series": "adulte général — annexe",
+      "version": "1.3",
+      "url": "https://www.urgences-ara.fr/app/uploads/2026/06/202605_Suivi_mise_a_jour_livret_medicament_adulte_V1.3.pdf",
+      "sha256": "049975b7759d170d93f520e227d4286ffc507b51d1d67d469c79c6875853c486"
+    },
+    {
+      "id": "pediatrique-general",
+      "kind": "pdf",
+      "series": "pédiatrique général intermédiaire",
+      "version": "2.0 intermédiaire",
+      "cover_date": "2026-06",
+      "page_count": 142,
+      "url": "https://www.urgences-ara.fr/app/uploads/2026/06/202606_CP_Livret_du_medicament_PEDIATRIQUE_INTERMEDIAIRE_UrgAra_V2.0.pdf",
+      "sha256": "4e692781d7e4e9a6ebabb77b7c6379f7af77423cdb32b2a6df463e582100ec9e"
+    },
+    {
+      "id": "mcs-index",
+      "kind": "index",
+      "url": "https://www.urgences-ara.fr/referentiel/mcs/",
+      "known_pdf_links": [
+        "https://www.urgences-ara.fr/app/uploads/2025/03/202607_MCS_AC_Arret_cardiaque_adulte_V2.0.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2025/07/202607_MCS_Livret_du_medicament_UrgAra_V2.0.pdf"
+      ]
+    },
+    {
+      "id": "mcs",
+      "kind": "pdf",
+      "series": "MCS",
+      "version": "2.0",
+      "cover_date": "2026-07",
+      "page_count": 106,
+      "url": "https://www.urgences-ara.fr/app/uploads/2025/07/202607_MCS_Livret_du_medicament_UrgAra_V2.0.pdf",
+      "sha256": "3da1c3b35b80806cb3bf00d5650f30f59b4a1b9b73895167ee2c74cae85571c1"
+    }
+  ]
+}

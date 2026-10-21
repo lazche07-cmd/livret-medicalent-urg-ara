@@ -1,0 +1,58 @@
+{
+  "clinical_content_modified": false,
+  "reports": [
+    {
+      "id": "pharmacie",
+      "url": "https://www.urgences-ara.fr/referentiel/pharmacie/",
+      "pdf_links": [
+        "https://www.urgences-ara.fr/app/uploads/2025/02/6074-20201126-sse-toxidrome-antidote-v1.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2025/07/202605_CP_livret_du_medicament_adulte_UrgAra_V1.3.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2026/06/202605_Suivi_mise_a_jour_livret_medicament_adulte_V1.3.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2026/06/202606_CP_Livret_du_medicament_PEDIATRIQUE_INTERMEDIAIRE_UrgAra_V2.0.pdf"
+      ]
+    },
+    {
+      "id": "adulte-general",
+      "series": "adulte général",
+      "url": "https://www.urgences-ara.fr/app/uploads/2025/07/202605_CP_livret_du_medicament_adulte_UrgAra_V1.3.pdf",
+      "sha256": "3455ffe410b47e332689196b3b74ca83f9682d0d5e8743fcf2a59f500c9ab851",
+      "bytes": 4145126,
+      "status": "first_check"
+    },
+    {
+      "id": "adulte-annexe",
+      "series": "adulte général — annexe",
+      "url": "https://www.urgences-ara.fr/app/uploads/2026/06/202605_Suivi_mise_a_jour_livret_medicament_adulte_V1.3.pdf",
+      "sha256": "049975b7759d170d93f520e227d4286ffc507b51d1d67d469c79c6875853c486",
+      "bytes": 458789,
+      "status": "first_check"
+    },
+    {
+      "id": "pediatrique-general",
+      "series": "pédiatrique général intermédiaire",
+      "url": "https://www.urgences-ara.fr/app/uploads/2026/06/202606_CP_Livret_du_medicament_PEDIATRIQUE_INTERMEDIAIRE_UrgAra_V2.0.pdf",
+      "sha256": "4e692781d7e4e9a6ebabb77b7c6379f7af77423cdb32b2a6df463e582100ec9e",
+      "bytes": 3282680,
+      "status": "first_check"
+    },
+    {
+      "id": "mcs-index",
+      "url": "https://www.urgences-ara.fr/referentiel/mcs/",
+      "pdf_links": [
+        "https://www.urgences-ara.fr/app/uploads/2025/03/202607_MCS_AC_Arret_cardiaque_adulte_V2.0.pdf",
+        "https://www.urgences-ara.fr/app/uploads/2025/07/202607_MCS_Livret_du_medicament_UrgAra_V2.0.pdf"
+      ]
+    },
+    {
+      "id": "mcs",
+      "series": "MCS",
+      "url": "https://www.urgences-ara.fr/app/uploads/2025/07/202607_MCS_Livret_du_medicament_UrgAra_V2.0.pdf",
+      "sha256": "3da1c3b35b80806cb3bf00d5650f30f59b4a1b9b73895167ee2c74cae85571c1",
+      "bytes": 2662835,
+      "status": "unchanged"
+    }
+  ],
+  "review_note": "Compare each series separately. A changed hash can reflect layout only. Validate clinical differences before updating the application.",
+  "checked_at": "2026-10-21T21:48:08.816623+00:00",
+  "conclusion": "No confirmed new edition or relevant correction compared with the known references. Official MCS PDF is byte-identical to the application source. No notification warranted."
+}

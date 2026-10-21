@@ -1,0 +1,18 @@
+{
+  "adulte": {
+    "file": "livret-adulte.pdf",
+    "pages": 64,
+    "text_matches": true,
+    "drawing_streams_match": true,
+    "images_match": true,
+    "internal_links_in_bounds": true
+  },
+  "pediatrique": {
+    "file": "livret-pediatrique.pdf",
+    "pages": 60,
+    "text_matches": true,
+    "drawing_streams_match": true,
+    "images_match": true,
+    "internal_links_in_bounds": true
+  }
+}

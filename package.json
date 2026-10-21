@@ -1,0 +1,8 @@
+{
+  "name": "livret-medicament-urg-ara",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Livret médicament Urg ara — aide cognitive interactive à valider médicalement",
+  "scripts": {"build": "node scripts/verify-static.mjs", "test": "node scripts/check-interactions.cjs"},
+  "engines": {"node": ">=22"}
+}
